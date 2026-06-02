@@ -27,7 +27,7 @@ The dataset contains:
 * Country
 * Invoice date
 
-More than **50,000+ records** were processed and transformed using SQL.
+More than **5M+ records** were processed and transformed using SQL.
 
 ---
 
